@@ -17,12 +17,6 @@ Ce projet explore l'utilisation de différentes architectures d'auto-encodeurs p
 
 *Image montrant un exemple de segmentation de tumeur cérébrale réalisée par l'un des modèles.*
 
-## Comment utiliser
-
-1. **Télécharger les données** : Les données utilisées pour ce projet sont disponibles sur [Kaggle](https://www.kaggle.com/datasets/mateuszbuda/1gg-mri-segmentation).
-2. **Entraîner les modèles** : Les scripts pour entraîner les modèles sont fournis dans le dépôt. Utilisez `train_unet.py`, `train_linknet.py`, etc., pour entraîner chaque architecture.
-3. **Évaluer les performances** : Les métriques telles que l'IoU et l'accuracy sont calculées automatiquement après chaque entraînement.
-
 ## Auteur
 
 - **Nicolas Melaerts** - Développeur du projet.
